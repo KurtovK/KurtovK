@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -19,20 +20,27 @@ Here are some ideas to get you started:
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/k.kurtov87">
-    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКОНТАКТЕ Badge"/>
+    <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКОНТАКТЕ Badge"/>    
   </a>
   <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+
 <div id="view_counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=KurtovK&style=flat-square&color=blue" alt=""align="center"/>
 </div>
+  <h1> 
+ 👉 Я у тебя в голове👈
+  </h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUxZmE5Y2RkNjYyODdmMmY4YWRjYmE2OGM4NDcwZmY5MmNlOGEyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2tO3sNhBa0UV1jlq7r/giphy.gif" width="600" height="300"/>
 </div>
-
+  <h2>
+ 👉 Никогда не сдавайся и ты увидишь как сдаются другие.👈
+</h2>
 ---
 
 ### :man_technologist: About Me : I am student web-developer.
