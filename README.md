@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=KurtovK&style=flat-square&color=blue" alt=""align="center"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWUxZmE5Y2RkNjYyODdmMmY4YWRjYmE2OGM4NDcwZmY5MmNlOGEyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2tO3sNhBa0UV1jlq7r/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me : I am student web-developer.
